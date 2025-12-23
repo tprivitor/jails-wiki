@@ -1,6 +1,6 @@
 # Mia
 
-![Mia](../assets/heroes/10021 (1).png)
+![Mia](../assets/heroes/mia.png)
 
 ## Quick facts
 - **Rarity:** (S / SS / etc)
