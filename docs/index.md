@@ -3,6 +3,7 @@
 Unofficial reference for heroes, skills, events, and comps.
 
 ## Start here
-- Heroes
-- Events
-- Builds
+- [Heroes](heroes/index.md)
+- [Events](events/index.md)
+- [Builds](builds/index.md)
+- [Mechanics](mechanics/index.md)
