@@ -8,6 +8,12 @@ nav:
   - Home: index.md
   - Heroes:
       - Heroes Index: heroes/index.md
+  - Events:
+      - Events Index: events/index.md
+  - Builds:
+      - Builds Index: builds/index.md
+  - Mechanics:
+      - Mechanics Index: mechanics/index.md
   - Roadmap: roadmap.md
 
 theme:
