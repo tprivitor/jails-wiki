@@ -1,10 +1,8 @@
 # Lands of Jail Wiki
 
-Unofficial reference for **Lands of Jail** heroes, skills, and mechanics.
+Unofficial reference for heroes, skills, events, and comps.
 
-## Quick links
-- [Heroes](heroes/index.md)
-- [Roadmap](roadmap.md)
-
-## Status
-Work in progress. Content is being migrated from screenshots and notes.
+## Start here
+- Heroes
+- Events
+- Builds
